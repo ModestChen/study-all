@@ -1,6 +1,0 @@
-同父域下的统一登录
-
-http:demo1.x.com/demo1/main
-http:demo2.x.com/demo2/main
-//统一校验接口
-http:check.x.com/sso/checkCookies

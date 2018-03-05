@@ -17,6 +17,46 @@
       <profile default="true" name="Default" enabled="false">
         <processorPath useClasspath="true" />
       </profile>
+<<<<<<< HEAD
     </annotationProcessing>
+=======
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="cross-domain-sso" />
+        <module name="parent-domain-sso" />
+        <module name="parent-domain-sso (1)" />
+        <module name="same-domain-sso" />
+        <module name="sso-api" />
+        <module name="sso-client" />
+        <module name="sso-server" />
+        <module name="study-all-basis" />
+        <module name="study-all-common" />
+        <module name="study-all-config" />
+        <module name="study-all-manager" />
+        <module name="study-hfut-manager" />
+        <module name="study-web-manager" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cross-domain-sso" target="1.6" />
+      <module name="parent-domain-sso" target="1.6" />
+      <module name="parent-domain-sso (1)" target="1.6" />
+      <module name="same-domain-sso" target="1.6" />
+      <module name="sso-api" target="1.6" />
+      <module name="sso-client" target="1.6" />
+      <module name="sso-server" target="1.6" />
+      <module name="study-all" target="1.6" />
+      <module name="study-all-basis" target="1.6" />
+      <module name="study-all-common" target="1.6" />
+      <module name="study-all-config" target="1.6" />
+      <module name="study-all-manager" target="1.5" />
+      <module name="study-hfut-manager" target="1.5" />
+      <module name="study-sso" target="1.6" />
+      <module name="study-web-manager" target="1.6" />
+    </bytecodeTargetLevel>
+>>>>>>> parent of eeb4d8d... Revert "Initial commit"
   </component>
 </project>

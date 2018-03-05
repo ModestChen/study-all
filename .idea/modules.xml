@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/study-sso/cross-domain-sso/cross-domain-sso.iml" filepath="$PROJECT_DIR$/study-sso/cross-domain-sso/cross-domain-sso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study-sso/parent-domain-sso/parent-domain-sso.iml" filepath="$PROJECT_DIR$/study-sso/parent-domain-sso/parent-domain-sso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study-sso/same-domain-sso/same-domain-sso.iml" filepath="$PROJECT_DIR$/study-sso/same-domain-sso/same-domain-sso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study-sso/sso-api/sso-api.iml" filepath="$PROJECT_DIR$/study-sso/sso-api/sso-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study-sso/sso-client/sso-client.iml" filepath="$PROJECT_DIR$/study-sso/sso-client/sso-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study-sso/sso-server/sso-server.iml" filepath="$PROJECT_DIR$/study-sso/sso-server/sso-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study-all.iml" filepath="$PROJECT_DIR$/study-all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study-all-basis/study-all-basis.iml" filepath="$PROJECT_DIR$/study-all-basis/study-all-basis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study-all-common/study-all-common.iml" filepath="$PROJECT_DIR$/study-all-common/study-all-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study-all-config/study-all-config.iml" filepath="$PROJECT_DIR$/study-all-config/study-all-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study-sso/study-sso.iml" filepath="$PROJECT_DIR$/study-sso/study-sso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study-web-manager/study-web-manager.iml" filepath="$PROJECT_DIR$/study-web-manager/study-web-manager.iml" />
+    </modules>
+  </component>
+</project>

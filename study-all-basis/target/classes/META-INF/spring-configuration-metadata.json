@@ -1,0 +1,13 @@
+{
+  "groups": [{
+    "name": "girl",
+    "type": "com.hfut.study.basis.designPattern.factoryPattern.CarFactory",
+    "sourceType": "com.hfut.study.basis.designPattern.factoryPattern.CarFactory"
+  }],
+  "properties": [{
+    "name": "girl.car-factory-map",
+    "type": "java.util.Map<java.lang.String,java.lang.String>",
+    "sourceType": "com.hfut.study.basis.designPattern.factoryPattern.CarFactory"
+  }],
+  "hints": []
+}

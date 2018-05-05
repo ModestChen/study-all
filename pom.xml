@@ -48,6 +48,7 @@
         </plugins>
     </build>
     <modules>
+        <module>study-mybatis</module>
         <module>study-all-basis</module>
         <module>study-all-common</module>
         <module>study-web-manager</module>

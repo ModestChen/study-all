@@ -12,6 +12,6 @@ import com.hfut.study.mybatis.entity.Student;
  * @author chenjia
  * @since 2018-05-05
  */
-public interface IStudentService extends IService<Student> {
+public interface StudentService extends IService<Student> {
 
 }

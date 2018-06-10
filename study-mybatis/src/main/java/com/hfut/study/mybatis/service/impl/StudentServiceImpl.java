@@ -4,7 +4,7 @@ package com.hfut.study.mybatis.service.impl;
 import com.baomidou.mybatisplus.service.impl.ServiceImpl;
 import com.hfut.study.mybatis.dao.StudentMapper;
 import com.hfut.study.mybatis.entity.Student;
-import com.hfut.study.mybatis.service.IStudentService;
+import com.hfut.study.mybatis.service.StudentService;
 import org.springframework.stereotype.Service;
 
 /**
@@ -16,6 +16,6 @@ import org.springframework.stereotype.Service;
  * @since 2018-05-05
  */
 @Service
-public class StudentServiceImpl extends ServiceImpl<StudentMapper, Student> implements IStudentService {
+public class StudentServiceImpl extends ServiceImpl<StudentMapper, Student> implements StudentService {
 
 }
